@@ -3,12 +3,12 @@
     <channel>
         <title>Portola</title>
         <item>
-            <title>0.8.8</title>
-            <pubDate>Tue, 15 Jul 2025 13:09:52 -0700</pubDate>
-            <sparkle:version>0.8.8</sparkle:version>
-            <sparkle:shortVersionString>0.8.8</sparkle:shortVersionString>
+            <title>0.8.15</title>
+            <pubDate>Tue, 15 Jul 2025 14:56:13 -0700</pubDate>
+            <sparkle:version>0.8.15</sparkle:version>
+            <sparkle:shortVersionString>0.8.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/portolanetwork/portola-release/releases/download/v0.8.8/Portola-v0.8.8.dmg" length="71941992" type="application/octet-stream" sparkle:edSignature="7R6nLd9p4izJzV4l9Nftc3XTn6LPAxuqX09T0eDAUA1NSoCaabJOlkh23jqGvpLiRVFrXDFMkVnmLCYxDxWYCA=="/>
+            <enclosure url="https://github.com/portolanetwork/portola-release/releases/download/v0.8.15/Portola-v0.8.15.dmg" length="71939079" type="application/octet-stream" sparkle:edSignature="LRSflRqHDP2ku3Y9uM54qDXIa7oFjZpr3FgxLr9TuNv6D/7/Mq5x9N9LW88WTlo6PZP/G9OykiAADU6wQycmCw=="/>
         </item>
     </channel>
 </rss>
